@@ -6,7 +6,7 @@ Nguồn dữ liệu
   https://www.kaggle.com/datasets/allandclive/chicken-disease-1
 
 Mô tả
-- Dữ liệu gồm ảnh gà thuộc các lớp bệnh khác nhau
+- Dữ liệu gồm 8067 ảnh phân gà thuộc các lớp bệnh khác nhau
 - Các lớp sử dụng trong đồ án:
   - Coccidiosis
   - Salmonella
@@ -18,4 +18,5 @@ Mô tả
 Lưu ý:
 - Do dataset có dung lượng lớn, toàn bộ dữ liệu không upload lên GitHub
 - Người dùng cần tải dataset từ Kaggle theo link trên để chạy lại notebook.
+
 
