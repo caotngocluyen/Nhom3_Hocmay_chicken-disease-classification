@@ -3,7 +3,7 @@ Mô tả dataset
 Nguồn dữ liệu
 - Dataset: Chicken Disease Dataset
 - Nguồn: Kaggle  
-  (Dán link dataset Kaggle vào đây)
+  https://www.kaggle.com/datasets/allandclive/chicken-disease-1
 
 Mô tả
 - Dữ liệu gồm ảnh gà thuộc các lớp bệnh khác nhau
@@ -18,3 +18,4 @@ Mô tả
 Lưu ý:
 - Do dataset có dung lượng lớn, toàn bộ dữ liệu không upload lên GitHub
 - Người dùng cần tải dataset từ Kaggle theo link trên để chạy lại notebook.
+
